@@ -3,7 +3,7 @@
 ## Avtorji
 
 * Maša Žaucer
-* Matija Pretnar
+* Simon Godec
 * Matjaž Zaveršnik
 * Anja Petkovič
 
