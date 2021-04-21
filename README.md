@@ -3,7 +3,6 @@
 ## Avtorji
 
 * Maša Žaucer
-* Matija Pretnar
 * Matjaž Zaveršnik
 
 ## Opis
