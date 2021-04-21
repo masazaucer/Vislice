@@ -4,6 +4,7 @@
 
 * Maša Žaucer
 * Matjaž Zaveršnik
+* Anja Petkovič
 
 ## Opis
 V tem projektu se lahko igramo igro vislice.
