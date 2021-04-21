@@ -3,7 +3,7 @@
 ## Avtorji
 
 * Maša Žaucer
-* Matjaž Zaveršnik
+* Peter Žaucer
 * Anja Petkovič
 
 ## Opis
